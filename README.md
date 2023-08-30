@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, me chamo Bruno Jaidan 👋
 
 <!--
 **BrunoJaidan/BrunoJaidan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
