@@ -1,9 +1,8 @@
-
-
-<p align="center">Olá! Me chamo Bruno Jaidan</p>&nbsp;
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/BrunoJaidan/BrunoJaidan/blob/main/git.png" />
+&nbsp;&nbsp;&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=BrunoJaidan&theme=radical&mode=weekly" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=BrunoJaidan&theme=dark&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-BrunoJaidan.vercel.app/api/top-langs/?username=BrunoJaidan&show_icons=true&theme=radical&layout=compact" />
  </div>
  
