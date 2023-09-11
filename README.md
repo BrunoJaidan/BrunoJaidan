@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/BrunoJaidan/BrunoJaidan/blob/main/git.png" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/BrunoJaidan/BrunoJaidan/blob/main/fundoGIT.png" />
 &nbsp;&nbsp;&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
